@@ -1,0 +1,10 @@
+environments:
+
+  - name: "orangehrm"
+    url: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    roles:
+    - name: "adminuser"
+      username: "Admin"
+      password: "admin123"
+
+
